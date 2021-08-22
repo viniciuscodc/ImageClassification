@@ -11,7 +11,7 @@ images are extracted using Local Binary Pattern (LBP). It might take a while to 
 - ModelTest
 - ModelEvaluate
 
-## CLASSES:
+## Classes
 
 - 0 - non-lung
 - 1 - normal
@@ -22,7 +22,7 @@ images are extracted using Local Binary Pattern (LBP). It might take a while to 
 - 6 - consolidation
 
 
-## FILENAME CONVENTION:
+## Filename Convention
 
 {img_name}_{roi_number}_{coord_x}-{coord_y}_{percent}_{label}.dcm <br />
 img_name = original image name <br />
